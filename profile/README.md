@@ -1,7 +1,7 @@
 # Unofficial LineageOS ROM for Blackberry Key2
 
 ## ROM Sources:
-LineageOS ROM sources for Blackberry Key2 and Key2 LE are kept here.
+LineageOS ROM sources for Blackberry Key2 and Key2 LE are kept here (https://github.com/orgs/Lineage-BBKey2/repositories).
 
 The ROM sources were forked from [krab-ubica](https://github.com/tim-ecoder/lineageos_blackberry_athena) and [FumoEnterprises](https://github.com/FumoEnterprises).
 
