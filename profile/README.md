@@ -15,7 +15,7 @@ Help from AI conversational prompting was used in some cases and is noted in the
 
 * Blackberry Key2: https://github.com/Lineage-BBKey2/distribution/releases/latest
 * Blackberry Key2 LE: https://github.com/Lineage-BBKey2LE/distribution/releases/latest
-* Installation guide/tips: https://daphnis-past-midnight.neocities.org/wiki
+* Installation guide/tips: https://daphnis-past-midnight.nekoweb.org/wiki/key2.html (created/maintained by [Luna-Terra-CG](https://github.com/Luna-Terra-CG))
 
 ## Notes
 [*] The following patches were not applied:
