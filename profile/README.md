@@ -1,21 +1,23 @@
 # Unofficial LineageOS ROM for Blackberry Key2
 
-## ROM Sources:
-LineageOS ROM sources for Blackberry Key2 and Key2 LE are kept here (https://github.com/orgs/Lineage-BBKey2/repositories).
+## Download/Install:
+* Blackberry Key2: https://github.com/Lineage-BBKey2/distribution/releases/latest
+* Blackberry Key2 LE: https://github.com/Lineage-BBKey2LE/distribution/releases/latest
 
-The ROM sources were forked from [krab-ubica](https://github.com/tim-ecoder/lineageos_blackberry_athena) and [FumoEnterprises](https://github.com/FumoEnterprises).
+## Help/Discussion:
+* Installation guide/tips: https://daphnis-past-midnight.nekoweb.org/wiki/key2.html (created/maintained by [Luna-Terra-CG](https://github.com/Luna-Terra-CG))
+* Discord group for help, bug reports, and discussion: https://discord.gg/BuJURQD6Qb
+
+## ROM Sources:
+The ROM sources for Blackberry Key2 and Key2 LE are both maintained [here](https://github.com/orgs/Lineage-BBKey2/repositories).
+
+Sources were originally forked from [krab-ubica](https://github.com/tim-ecoder/lineageos_blackberry_athena) and [FumoEnterprises](https://github.com/FumoEnterprises) - this foundational work is greatly appreciated!
 
 Almost all[*] of [krab-ubica's patches](https://github.com/tim-ecoder/lineageos_blackberry_athena/tree/lineage-22.2-athena/patches) have been committed to the corresponding repos. Some patches were applied to forked upstream LineageOS repos.
 
 Further changes done by me (zapaca), sometimes with help from others and attributed as co-authors in the commits.
 
 Help from AI conversational prompting was used in some cases and is noted in the corresponding commits.
-
-## Download/Install:
-
-* Blackberry Key2: https://github.com/Lineage-BBKey2/distribution/releases/latest
-* Blackberry Key2 LE: https://github.com/Lineage-BBKey2LE/distribution/releases/latest
-* Installation guide/tips: https://daphnis-past-midnight.nekoweb.org/wiki/key2.html (created/maintained by [Luna-Terra-CG](https://github.com/Luna-Terra-CG))
 
 ## Notes
 [*] The following patches were not applied:
