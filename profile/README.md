@@ -1,15 +1,18 @@
-# Unofficial LineageOS ROM for Blackberry Key2
+# Unofficial LineageOS ROM for BlackBerry KEY2/KEY2 LE
 
 ## Download/Install:
-* Blackberry Key2: https://github.com/Lineage-BBKey2/distribution/releases/latest
-* Blackberry Key2 LE: https://github.com/Lineage-BBKey2LE/distribution/releases/latest
+* BlackBerry KEY2: https://github.com/Lineage-BBKey2/distribution/releases/latest
+* BlackBerry KEY2 LE: https://github.com/Lineage-BBKey2LE/distribution/releases/latest
 
 ## Help/Discussion:
 * Installation guide/tips: https://daphnis-past-midnight.nekoweb.org/wiki/key2.html (created/maintained by [Luna-Terra-CG](https://github.com/Luna-Terra-CG))
-* Discord group for help, bug reports, and discussion: https://discord.gg/BuJURQD6Qb
+* Discord group for help, bug reports, feature requests, and discussion: https://discord.gg/BuJURQD6Qb
+* Bug reports or feature requests can also be made here:
+  * KEY2: https://github.com/Lineage-BBKey2/distribution/issues
+  * KEY2 LE: https://github.com/Lineage-BBKey2LE/distribution/issues
 
 ## ROM Sources:
-The ROM sources for Blackberry Key2 and Key2 LE are both maintained [here](https://github.com/orgs/Lineage-BBKey2/repositories).
+Combined ROM sources for BlackBerry KEY2 and KEY2 LE are maintained [here](https://github.com/orgs/Lineage-BBKey2/repositories).
 
 Sources were originally forked from [krab-ubica](https://github.com/tim-ecoder/lineageos_blackberry_athena) and [FumoEnterprises](https://github.com/FumoEnterprises) - this foundational work is greatly appreciated!
 
@@ -19,7 +22,7 @@ Further changes done by me (zapaca), sometimes with help from others and attribu
 
 Help from AI conversational prompting was used in some cases and is noted in the corresponding commits.
 
-## Notes
+### Notes
 [*] The following patches were not applied:
 - [03-custom-signing-keys.patch](https://github.com/tim-ecoder/lineageos_blackberry_athena/blob/lineage-22.2-athena/patches/03-custom-signing-keys.patch) - private signing keys/release version IDs
 - [05-mediaprovider-selinux-fix.patch](https://github.com/tim-ecoder/lineageos_blackberry_athena/blob/lineage-22.2-athena/patches/05-mediaprovider-selinux-fix.patch) - Based on my testing, no problems with SD card functionality without this patch 
